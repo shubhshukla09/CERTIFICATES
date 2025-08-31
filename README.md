@@ -43,7 +43,7 @@ Each certificate reflects my learning journey and dedication to enhancing my tec
   🏢 *Udemy*  
   📅 Completed: September 2024  
   ✅ Skills: Frontend development with HTML, CSS, JS; Backend basics with Python  
-  📄 [View Certificate](./Udemy-CSS-JavaScript-Python.pdf)
+  📄 [View Certificate](https://github.com/shubhshukla09/CERTIFICATES/blob/ac8e4e29523dea751dc3e0a09d0a3dad113a6b1b/CSS%2C%20JavaScript%20And%20Python.pdf)
 
 ---
 
