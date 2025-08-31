@@ -11,7 +11,7 @@ Each certificate reflects my learning journey and dedication to enhancing my tec
   🏢 *Amazon Web Services*  
   📅 Completed: June 18, 2025  
   ✅ Skills: Cloud concepts, AWS services, security, architecture, pricing  
-  ![AWS Certificate](./AWS%20Cloud%20practitioner.pdf)
+  📄 [View Certificate](./AWS%20Cloud%20practitioner.pdf)
 
 ---
 
@@ -22,7 +22,7 @@ Each certificate reflects my learning journey and dedication to enhancing my tec
   📅 Completed: September 21, 2024  
   ⏱ Duration: 2 hours 21 minutes  
   ✅ Skills: Data analytics fundamentals, tech career skills  
-  ![Analytics Certificate](./Introduction%20to%20Career%20Skills%20in%20Data%20Analytics.pdf)
+  📄 [View Certificate](./Introduction%20to%20Career%20Skills%20in%20Data%20Analytics.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ Each certificate reflects my learning journey and dedication to enhancing my tec
   📅 Completed: July 17, 2025  
   ✅ Skills: Python programming, data analysis, AI concepts, Jupyter Notebooks  
   🔗 [Verify Certificate](https://coursera.org/verify/RKBEWE4OO8GG)  
-  ![Python Certificate](./Python%20for%20Data%20Science,%20AI%20&%20Development.pdf)
+  📄 [View Certificate](./Python%20for%20Data%20Science,%20AI%20&%20Development.pdf)
 
 ---
 
@@ -43,6 +43,7 @@ Each certificate reflects my learning journey and dedication to enhancing my tec
   🏢 *Udemy*  
   📅 Completed: September 2024  
   ✅ Skills: Frontend development with HTML, CSS, JS; Backend basics with Python  
+  📄 [View Certificate](./Udemy-CSS-JavaScript-Python.pdf)
 
 ---
 
